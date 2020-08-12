@@ -33,5 +33,8 @@
     <ClCompile Include="6写一个函数求一个字符串的长度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7将字符串n从m个字符开始复制为另一个字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
