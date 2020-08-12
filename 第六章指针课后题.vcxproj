@@ -144,6 +144,7 @@
     <ClCompile Include="3输入十个整数使得最小在首最大在尾.cpp" />
     <ClCompile Include="4最后m个数变成最前面m个数.cpp" />
     <ClCompile Include="5n个人围成圈顺序排号报3退出.cpp" />
+    <ClCompile Include="6写一个函数求一个字符串的长度.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
