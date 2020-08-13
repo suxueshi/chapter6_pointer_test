@@ -36,5 +36,8 @@
     <ClCompile Include="7将字符串n从m个字符开始复制为另一个字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="8将3×3的整型矩阵转置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
