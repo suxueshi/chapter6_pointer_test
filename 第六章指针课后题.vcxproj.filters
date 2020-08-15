@@ -54,5 +54,8 @@
     <ClCompile Include="13输入一个字符串将其中连续的数字作为一个整数并输出.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14用指向指针的指针的方法对n个数进行排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
