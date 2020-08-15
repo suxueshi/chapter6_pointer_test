@@ -39,5 +39,20 @@
     <ClCompile Include="8将3×3的整型矩阵转置.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="9将5×5矩阵最大和最小元素放中间和四个角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10输入等长的字符串并排序输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11写一个矩形法求定积分的通用函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12将n个数按输入时候的顺序逆序排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13输入一个字符串将其中连续的数字作为一个整数并输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

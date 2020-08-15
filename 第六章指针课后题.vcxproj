@@ -139,6 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10输入等长的字符串并排序输出.cpp" />
+    <ClCompile Include="11写一个矩形法求定积分的通用函数.cpp" />
+    <ClCompile Include="12将n个数按输入时候的顺序逆序排列.cpp" />
+    <ClCompile Include="13输入一个字符串将其中连续的数字作为一个整数并输出.cpp" />
     <ClCompile Include="1输入三个整数从小到大输出.cpp" />
     <ClCompile Include="2输入三个字符串并从小到大输出.cpp" />
     <ClCompile Include="3输入十个整数使得最小在首最大在尾.cpp" />
@@ -147,6 +151,7 @@
     <ClCompile Include="6写一个函数求一个字符串的长度.cpp" />
     <ClCompile Include="7将字符串n从m个字符开始复制为另一个字符串.cpp" />
     <ClCompile Include="8将3×3的整型矩阵转置.cpp" />
+    <ClCompile Include="9将5×5矩阵最大和最小元素放中间和四个角.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
